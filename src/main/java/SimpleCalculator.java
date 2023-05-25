@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class SimpleCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Simple Calculator Prject For Core-Java Learner");
+        System.out.println("Simple Calculator Project For Core-Java Learner");
         System.out.println("------------------");
         System.out.println("Addition: +");
         System.out.println("Subtraction: -");
